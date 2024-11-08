@@ -1,6 +1,7 @@
-# attendy
+# Attendance App
 
-A new Flutter project for Punching attendence with login features and awesome UI.
+A Flutter project for Punching attendence with login features and awesome UI.
+
 
 ## Getting Started
 
