@@ -1,6 +1,7 @@
 # Attendance App
 
-A Flutter project for Punching attendence with login features and awesome UI.
+<img src="https://github.com/PrashantChandraker/Attendence-App/blob/main/assets/output/Screenshot_1731048758.png" height="400" />    <img src="https://github.com/PrashantChandraker/Attendence-App/blob/main/assets/output/Screenshot_1731050566.png" height="400" />   <img src="https://github.com/PrashantChandraker/Attendence-App/blob/main/assets/output/Screenshot_1731050570.png" height="400" />
+<img src="https://github.com/PrashantChandraker/Attendence-App/blob/main/assets/output/Screenshot_1731050645.png" height="400" />
 
 
 ## Getting Started
